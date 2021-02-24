@@ -1,0 +1,5 @@
+Je pense qu'ils ont changer pour partir sur un moteur relationnel, car dans le cas ou les infos sont afficher sur un tableau excel.
+Les infos sont déja donné a l'avance ce qui préconise l'utilisation d'un moteur relationnel,comme les valeur les infos sont déja donné
+l'utilisation de sql empeche de faire des erreur.L'utilisation d'un moteur relationnel fonctionne de cette façons (base de données, tables,schéma)
+tant que c'est 3 étapes non pas était défini il est impossible d'ajouté des donnés.Ce systeme fonctionne bien dans l'utilisation de project sqlix la ou les infos
+sont déjà donné dans le tableau excel ce qui donne une meilleur idée de comment doit être ordonné le projet.
